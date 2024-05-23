@@ -1,0 +1,45 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: bisque;
+}
+
+.container {
+    padding: 10px;
+}
+
+span {
+    font-size: 5rem;
+    background-color: rgb(107, 69, 29);
+    padding: 10px 15px;
+    margin: 15px;
+    color: aliceblue;
+}
+
+button {
+    font-size: 3rem;
+    cursor: pointer;
+    background-color: rgb(169, 135, 98);
+    color: white;
+    border-radius: 20px;
+    width: 200px;
+    height: 100px;
+    cursor: pointer;
+}
+
+text {
+    color: black;
+    font-size: 2rem;
+    background-color: rgb(107, 69, 29);
+    color: aliceblue;
+    width: 300px;
+    height: 45px;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    text-align: center;
+}
